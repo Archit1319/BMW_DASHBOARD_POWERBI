@@ -13,17 +13,17 @@ This project contains an interactive Power BI dashboard designed to analyze and 
   - `BMW_Sales_Data.xlsx`: Core dataset with BMW sales figures and transactions.
   - `Car Images.xlsx`: Dataset containing URLs or references to corresponding BMW car model images for visual enhancement.
   - `Countries with Flags URL.xlsx`: Dataset with image URLs used for mapping country flags.
-  - 
+    
 ## Dashboard Screenshots
 
 ### Dashboard View 1
-(ScreenShots/BMW%20DASHBOARD_page-0001.jpg)
+![Dashboard Page 1](ScreenShots/BMW%20DASHBOARD_page-0001.jpg)
 
 ### Dashboard View 2
-(ScreenShots/BMW%20DASHBOARD_page-0002.jpg)
+![Dashboard Page 2](ScreenShots/BMW%20DASHBOARD_page-0002.jpg)
 
 ### Dashboard View 3
-(ScreenShots/BMW%20DASHBOARD_page-0003.jpg)
+![Dashboard Page 3](ScreenShots/BMW%20DASHBOARD_page-0003.jpg)
 
 ## How to Use
 1. Ensure you have **Microsoft Power BI Desktop** installed on your machine.
