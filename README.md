@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg" alt="BMW Logo" width="100"/>
+</p>
+
 # BMW Sales Analysis Dashboard
 
 ## Project Overview
@@ -29,3 +33,14 @@ This project contains an interactive Power BI dashboard designed to analyze and 
 ## Tools Used
 - **Microsoft Power BI**: For data modeling, visualization, and dashboard creation.
 - **Microsoft Excel**: For dataset storage and management.
+
+## Dashboard Screenshots
+
+### Dashboard View 1
+![Dashboard Page 1](ScreenShots/BMW%20DASHBOARD_page-0001.jpg)
+
+### Dashboard View 2
+![Dashboard Page 2](ScreenShots/BMW%20DASHBOARD_page-0002.jpg)
+
+### Dashboard View 3
+![Dashboard Page 3](ScreenShots/BMW%20DASHBOARD_page-0003.jpg)
